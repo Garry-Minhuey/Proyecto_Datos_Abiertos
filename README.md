@@ -1,6 +1,7 @@
 # Proyecto_Datos_Abiertos
 Análisis y Predicción del Rendimiento Académico
 Se consideró en el modelo los registros de estudiantes matriculados desde el 2016-1 al 2019-2 (87580 registros), de esta forma todos los alumnos (8155 estudiantes) tienen la oportunidad en teoría de egresar (ciclo relativo maximo igual a 10 u 11).
+
 Glosario:
 IDHASH: código único encriptado que identifica al estudiante.
 COLEGIO_DEPA: departamento dónde se ubica el colegio de procedencia del estudiante.
